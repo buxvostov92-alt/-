@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Доктор Безруков — реабилитация от алкоголя и наркотиков по всей России</title>
+  <meta name="description" content="Сеть реабилитационных клиник Доктор Безруков. Анонимная помощь при алкоголизме и наркозависимости. Собственные клиники в Москве и Санкт‑Петербурге, работа по всей России." />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <div class="logo">
+      <span class="logo__title">Доктор Безруков</span>
+      <span class="logo__subtitle">Сеть реабилитационных клиник</span>
+    </div>
+    <nav class="main-nav">
+      <a href="#services">Услуги</a>
+      <a href="#cities">Города</a>
+      <a href="#about">О клинике</a>
+      <a href="#doctors">Врачи</a>
+      <a href="#reviews">Отзывы</a>
+      <a href="#contacts">Контакты</a>
+    </nav>
+    <div class="header-contacts">
+      <a class="header-phone" href="tel:+78000000000">8 800 000‑00‑00</a>
+      <button class="btn btn--primary" data-open-modal="callback">Перезвоните мне</button>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <!-- Первый экран -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <h1>Доктор Безруков — возвращаем людей к жизни без алкоголя и наркотиков</h1>
+        <p class="hero-subtitle">
+          Анонимная медицинская помощь и реабилитация. Собственные клиники в Москве и Санкт‑Петербурге, работа с пациентами по всей России.
+        </p>
+        <div class="hero-cta">
+          <a href="tel:+78000000000" class="btn btn--primary btn--big">Позвонить сейчас — работает 24/7</a>
+          <button class="btn btn--outline" data-open-modal="messenger">Анонимно написать в мессенджер</button>
+        </div>
+        <ul class="hero-list">
+          <li>Безопасная медицинская детоксикация под наблюдением врачей</li>
+          <li>Полная реабилитация и поддержка семьи</li>
+          <li>Без насилия, без обмана, с уважением к пациенту</li>
+        </ul>
+      </div>
+      <div class="hero-side">
+        <div class="hero-badge">
+          <span>24/7</span>
+          <span>Экстренная помощь</span>
+        </div>
+        <div class="hero-card">
+          <h3>Анонимная консультация</h3>
+          <p>Оставьте телефон — врач‑координатор свяжется с вами в течение 10 минут.</p>
+          <form class="hero-form">
+            <input type="tel" name="phone" placeholder="Ваш телефон" required />
+            <button type="submit" class="btn btn--primary">Жду звонка</button>
+            <small>Нажимая кнопку, вы соглашаетесь с обработкой персональных данных.</small>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Для кого работаем -->
+  <section class="section section--grey" id="services">
+    <div class="container">
+      <h2>Кому помогает сеть клиник «Доктор Безруков»</h2>
+      <div class="cards-grid">
+        <article class="card">
+          <h3>Алкогольная зависимость</h3>
+          <p>Системная работа с алкоголизмом: от вывода из запоя до долгосрочной ремиссии.</p>
+        </article>
+        <article class="card">
+          <h3>Наркотическая зависимость</h3>
+          <p>Комплексные программы при зависимости от опиоидов, стимуляторов и других веществ.</p>
+        </article>
+        <article class="card">
+          <h3>Игровая и цифровая зависимость</h3>
+          <p>Работа с игроманией и зависимостью от гаджетов, соцсетей, ставок.</p>
+        </article>
+        <article class="card">
+          <h3>Созависимость и помощь семье</h3>
+          <p>Поддержка родителей, супругов и близких, живущих рядом с зависимым человеком.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Как проходит путь лечения -->
+  <section class="section">
+    <div class="container">
+      <h2>Путь пациента: от первой консультации до устойчивой ремиссии</h2>
+      <ol class="steps">
+        <li>
+          <h3>1. Анонимный звонок или заявка</h3>
+          <p>Вы рассказываете о ситуации, врач‑координатор задаёт уточняющие вопросы.</p>
+        </li>
+        <li>
+          <h3>2. План помощи</h3>
+          <p>Подбираем формат: выезд врача, госпитализация в клинику или плавный вход в реабилитацию.</p>
+        </li>
+        <li>
+          <h3>3. Медицинская детоксикация</h3>
+          <p>Вывод из запоя и острых состояний под наблюдением врача‑нарколога.</p>
+        </li>
+        <li>
+          <h3>4. Реабилитационная программа</h3>
+          <p>Индивидуальная и групповая терапия, работа с мотивацией, формирование новых привычек.</p>
+        </li>
+        <li>
+          <h3>5. Адаптация и поддержка</h3>
+          <p>Поддерживающие группы, работа с семьёй, профилактика срывов.</p>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- Города и клиники (Москва и СПб) -->
+  <section class="section section--grey" id="cities">
+    <div class="container">
+      <h2>Собственные клиники «Доктор Безруков»</h2>
+      <p class="section-subtitle">Сейчас сеть работает в Москве и Санкт‑Петербурге. Для других регионов доступны дистанционные форматы и программа приезда.</p>
+      <div class="cities-grid">
+        <article class="city-card">
+          <h3>Москва</h3>
+          <p>Стационарная клиника и реабилитационный центр. Круглосуточный приём и экстренная помощь.</p>
+          <ul>
+            <li>Медицинская детоксикация</li>
+            <li>Краткосрочные и длительные программы реабилитации</li>
+            <li>Семейные консультации</li>
+          </ul>
+          <a href="/moskva.html" class="btn btn--outline">Подробнее о клинике в Москве</a>
+        </article>
+        <article class="city-card">
+          <h3>Санкт‑Петербург</h3>
+          <p>Собственная клиника «Доктор Безруков» в Петербурге. Помощь жителям города и области.</p>
+          <ul>
+            <li>Выезд врача‑нарколога</li>
+            <li>Стационар и реабилитация</li>
+            <li>Поддержка после выписки</li>
+          </ul>
+          <a href="/spb.html" class="btn btn--outline">Подробнее о клинике в Петербурге</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Партнёрские клиники по России (на будущее, можно наполнить позже) -->
+  <section class="section">
+    <div class="container">
+      <h2>Партнёрские клиники по России</h2>
+      <p class="section-subtitle">Мы сотрудничаем с проверенными реабилитационными центрами в регионах России. Все партнёры проходят проверку по медицинским и этическим стандартам.</p>
+      <div class="partners-grid">
+        <article class="partner-card">
+          <h3>Партнёрский центр, регион</h3>
+          <p>Краткое описание центра и его специализации. Можно добавить логотип и список ключевых услуг.</p>
+          <a href="#" class="btn btn--small">О центре</a>
+        </article>
+        <!-- Дальше дублируешь карточки под реальные партнёрские центры -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Врачи -->
+  <section class="section" id="doctors">
+    <div class="container">
+      <h2>Врачи и команда «Доктора Безрукова»</h2>
+      <p class="section-subtitle">Реальные специалисты, которые ежедневно помогают пациентам выходить из зависимости.</p>
+      <div class="doctors-grid">
+        <article class="doctor-card">
+          <h3>ФИО врача</h3>
+          <p>Врач‑нарколог, стаж 10+ лет. Специализация: лечение алкогольной и наркотической зависимости.</p>
+        </article>
+        <article class="doctor-card">
+          <h3>ФИО врача</h3>
+          <p>Психотерапевт, опыт работы с зависимостями и созависимостью.</p>
+        </article>
+        <!-- Добавишь реальных врачей -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Отзывы -->
+  <section class="section section--grey" id="reviews">
+    <div class="container">
+      <h2>Истории пациентов и их близких</h2>
+      <div class="reviews-grid">
+        <article class="review-card">
+          <p>«Краткий текст отзыва родственника. Как было до, что изменилось после лечения и реабилитации.»</p>
+          <span class="review-author">Мама пациента, 46 лет</span>
+        </article>
+        <article class="review-card">
+          <p>«Краткий текст отзыва пациента. Почему решился на лечение, что помогло удержаться в программе.»</p>
+          <span class="review-author">Пациент, 32 года</span>
+        </article>
+      </div>
+      <button class="btn btn--outline">Смотреть больше отзывов</button>
+    </div>
+  </section>
+
+  <!-- Контакты -->
+  <section class="section" id="contacts">
+    <div class="container contacts-inner">
+      <div class="contacts-info">
+        <h2>Контакты сети клиник «Доктор Безруков»</h2>
+        <p>Федеральная линия помощи работает круглосуточно и анонимно.</p>
+        <p class="contacts-phone">Телефон: <a href="tel:+78000000000">8 800 000‑00‑00</a></p>
+        <p>E‑mail: <a href="mailto:info@bezrukov-clinic.ru">info@bezrukov-clinic.ru</a></p>
+        <p>Мессенджеры: WhatsApp, Telegram (кнопки можно добавить позже).</p>
+      </div>
+      <div class="contacts-form">
+        <h3>Нужна помощь прямо сейчас?</h3>
+        <p>Оставьте номер — координатор свяжется с вами и подберёт ближайшую клинику.</p>
+        <form>
+          <input type="text" name="name" placeholder="Как к вам обращаться" />
+          <input type="tel" name="phone" placeholder="Ваш телефон" required />
+          <textarea name="comment" placeholder="Кратко опишите ситуацию (по желанию)"></textarea>
+          <button type="submit" class="btn btn--primary">Жду звонка</button>
+          <small>Ваши данные не передаются третьим лицам.</small>
+        </form>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-left">
+      <p>© Доктор Безруков, 2025</p>
+      <p>Сеть реабилитационных клиник по всей России.</p>
+    </div>
+    <div class="footer-links">
+      <a href="#">Политика конфиденциальности</a>
+      <a href="#">Согласие на обработку персональных данных</a>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
